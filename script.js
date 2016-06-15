@@ -1,4 +1,4 @@
-Your JS goes here
+// Your JS goes here
 for(var i=0;i<81;i++){
 var black = document.createElement('div');
 black.style.width='11.1%';
@@ -13,3 +13,4 @@ black.style.paddingBottom='11.1%';
         document.body.appendChild(black)
     }
 }
+
